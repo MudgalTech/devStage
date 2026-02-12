@@ -1,10 +1,10 @@
 public class Main123 {
 
     public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
-        int result = a * b;
+        int a = 10;
+        int b = 20;
+        int sum = a + b;
 
-        System.out.println("Multiplication Result: " + result);
+        System.out.println("Sum is: " + sum);
     }
 }
